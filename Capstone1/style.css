@@ -12,9 +12,12 @@
 }
 
 .card-text {
+    display: block;
     flex-grow: 1; 
 }
-
 .footer {
-    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+   position: fixed;
 }
