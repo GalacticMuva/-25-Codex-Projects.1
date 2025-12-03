@@ -1,0 +1,20 @@
+
+.flex-gallery {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+}
+
+/* button uniformity*/
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-text {
+    flex-grow: 1; 
+}
+
+.footer {
+    position: fixed;
+}
